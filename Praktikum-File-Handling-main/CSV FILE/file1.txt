@@ -1,0 +1,5 @@
+NIM,NAMA,UMUR,PRODI
+01,sahal,21,TI
+02,ucup,22,TI
+03,salma,21,TE
+04,megi,22,TE

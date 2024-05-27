@@ -1,0 +1,3 @@
+4	Devan	23
+5	oki	22
+6	indri	21
